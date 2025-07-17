@@ -8,8 +8,8 @@ I'm Andrej and At heart ❤️ I'm really a techie.
 **📜 Сертификации**
 
 [![IPMA Level D](https://img.shields.io/static/v1?style=for-the-badge&message=IPMA%20Level%20D&color=0057B8&logo=project-management&logoColor=FFFFFF&label=Project%20Manager)](https://www.ipma.world/certification/)
-[![PSM I](https://img.shields.io/static/v1?style=for-the-badge&message=PSM%20I&color=E91E63&logo=Scrum%20Alliance&logoColor=FFFFFF&label=Scrum%20Master)](https://www.scrum.org/professional-scrum-certifications/psm-i)
-[![PSPO I](https://img.shields.io/static/v1?style=for-the-badge&message=PSPO%20I&color=4CAF50&logo=Scrum%20Alliance&logoColor=FFFFFF&label=Product%20Owner)](https://www.scrum.org/professional-scrum-certifications/pspo-i)
+[![PSM I](https://img.shields.io/static/v1?style=for-the-badge&message=PSM%20I&color=E91E63&logo=Scrum%20Alliance&logoColor=FFFFFF&label=Scrum%20Master)](https://www.credly.com/badges/18fbaafa-3936-492f-a262-9b60878ec505/)
+[![PSPO I](https://img.shields.io/static/v1?style=for-the-badge&message=PSPO%20I&color=4CAF50&logo=Scrum%20Alliance&logoColor=FFFFFF&label=Product%20Owner)](https://www.credly.com/badges/760e3390-9dbf-4e86-909d-b5d0877b8c7b/)
 
 **🛠️ Инструменты контроля версий**
 
