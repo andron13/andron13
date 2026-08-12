@@ -17,7 +17,7 @@ Today I drive a city bus in Berlin, write books, and still build software whenev
 [![codewars](https://www.codewars.com/users/andron13/badges/large "codewars")](https://www.codewars.com/users/andron13)
 ---
 
-## 📜 Certifications**
+## 📜 Certifications
 
 [![IPMA Level D](https://img.shields.io/static/v1?style=for-the-badge&message=IPMA%20Level%20D&color=0057B8&logo=project-management&logoColor=FFFFFF&label=Project%20Manager)](https://www.ipma.world/certification/)
 [![PSM I](https://img.shields.io/static/v1?style=for-the-badge&message=PSM%20I&color=E91E63&logo=Scrum%20Alliance&logoColor=FFFFFF&label=Scrum%20Master)](https://www.credly.com/badges/18fbaafa-3936-492f-a262-9b60878ec505/)
